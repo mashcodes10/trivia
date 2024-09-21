@@ -1,6 +1,10 @@
-# GeoTrivia
+Name: Md. Mashiur Rahman Khan
+Email: md.mashiur.rahman.khan@vanderbilt.edu
+# GeoTrivia Change++ Project
 
 GeoTrivia is a full-stack web application built with Next.js and Sanity CMS, designed to provide an engaging quiz experience focused on geography.
+Demo Video: https://youtu.be/wAPATjfhnCA
+
 
 ## Technologies Used
 
@@ -89,3 +93,8 @@ To run Sanity Studio locally:
 - Server-side rendering with Next.js
 - API routes for backend functionality
 
+Feedback about the project: All the resources I have used helped me a lot. I was stuck in a lot of things. And implementing the frontend was difficult. The backend was not complex. I just realized I need a lot of resources to to projects. This project might have some bugs which I couldn't figure out. Please let me know if you find some.
+
+If given more time: I could make Difficulty levels (easy, medium, hard). And an AI hint for the questions. 
+
+If you need to test the whole app, including environment variables, please email me at md.mashiur.rahman.khan@vanderbilt.edu  I'll provide you with the necessary environment variables and any additional instructions for setting up and testing the application.
